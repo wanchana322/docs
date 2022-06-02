@@ -1,3 +1,4 @@
+[UPS_Label.pdf](https://github.com/github/docs/files/8819586/UPS_Label.pdf)
 ---
 title: GitHub security features
 intro: 'An overview of {% data variables.product.prodname_dotcom %} security features.'
